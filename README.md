@@ -4,4 +4,4 @@ Hi, and thanks for stopping by! My name’s Julien, and I’m an experienced spa
 
 I’m passionate about **linguistics**, **programming languages**, **data visualisation**, **machine learning**, and **data-driven projects**.
 
-Please consider checking my website if you want to know more: [**blanchardjulien.com**](https://www.blanchardjulien.com/)
+Please check my website if you want to know more: [**blanchardjulien.com**](https://www.blanchardjulien.com/)
