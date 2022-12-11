@@ -27,4 +27,4 @@ Please check my website if you want to know more: <a href="https://blanchardjuli
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julien-blanchard&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julien-blanchard&layout=compact&theme=transparent&hide=jupyter%20notebook,html)](https://github.com/anuraghazra/github-readme-stats)
